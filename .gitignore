@@ -1,0 +1,5 @@
+# Episode audio and intermediates (large binaries)
+work/**/*.mp3
+work/**/*.wav
+work/**/*.m4a
+work/**/*.log
