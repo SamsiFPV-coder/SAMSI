@@ -1,0 +1,188 @@
+{
+ "source": "/home/user/SAMSI/work/ep002/src.wav",
+ "output": "/home/user/SAMSI/work/ep002/Podcast_nr2-final.mp3",
+ "source_duration": 1064.98322,
+ "output_duration": 1048.815,
+ "timeline": [
+  {
+   "part": "cold_open",
+   "src_start": 709.9,
+   "src_end": 736.3,
+   "out_start": 0.0,
+   "out_end": 26.4
+  },
+  {
+   "part": "sting",
+   "out_start": 26.4,
+   "out_end": 27.85
+  },
+  {
+   "part": "body",
+   "src_start": 6.0,
+   "src_end": 76.065,
+   "out_start": 27.85,
+   "out_end": 97.915
+  },
+  {
+   "part": "body",
+   "src_start": 76.855,
+   "src_end": 170.385,
+   "out_start": 97.915,
+   "out_end": 191.445
+  },
+  {
+   "part": "body",
+   "src_start": 172.915,
+   "src_end": 198.68,
+   "out_start": 191.445,
+   "out_end": 217.21
+  },
+  {
+   "part": "body",
+   "src_start": 198.91,
+   "src_end": 261.845,
+   "out_start": 217.21,
+   "out_end": 280.145
+  },
+  {
+   "part": "body",
+   "src_start": 262.675,
+   "src_end": 317.305,
+   "out_start": 280.145,
+   "out_end": 334.775
+  },
+  {
+   "part": "body",
+   "src_start": 318.435,
+   "src_end": 352.46,
+   "out_start": 334.775,
+   "out_end": 368.8
+  },
+  {
+   "part": "body",
+   "src_start": 352.6,
+   "src_end": 493.825,
+   "out_start": 368.8,
+   "out_end": 510.025
+  },
+  {
+   "part": "body",
+   "src_start": 494.995,
+   "src_end": 600.725,
+   "out_start": 510.025,
+   "out_end": 615.755
+  },
+  {
+   "part": "body",
+   "src_start": 602.175,
+   "src_end": 644.065,
+   "out_start": 615.755,
+   "out_end": 657.645
+  },
+  {
+   "part": "body",
+   "src_start": 645.095,
+   "src_end": 704.425,
+   "out_start": 657.645,
+   "out_end": 716.975
+  },
+  {
+   "part": "body",
+   "src_start": 705.555,
+   "src_end": 760.585,
+   "out_start": 716.975,
+   "out_end": 772.005
+  },
+  {
+   "part": "body",
+   "src_start": 761.655,
+   "src_end": 765.985,
+   "out_start": 772.005,
+   "out_end": 776.335
+  },
+  {
+   "part": "body",
+   "src_start": 766.735,
+   "src_end": 795.54,
+   "out_start": 776.335,
+   "out_end": 805.14
+  },
+  {
+   "part": "body",
+   "src_start": 795.72,
+   "src_end": 819.545,
+   "out_start": 805.14,
+   "out_end": 828.965
+  },
+  {
+   "part": "body",
+   "src_start": 820.775,
+   "src_end": 823.525,
+   "out_start": 828.965,
+   "out_end": 831.715
+  },
+  {
+   "part": "body",
+   "src_start": 824.335,
+   "src_end": 869.38,
+   "out_start": 831.715,
+   "out_end": 876.76
+  },
+  {
+   "part": "body",
+   "src_start": 869.76,
+   "src_end": 880.685,
+   "out_start": 876.76,
+   "out_end": 887.685
+  },
+  {
+   "part": "body",
+   "src_start": 882.155,
+   "src_end": 883.18,
+   "out_start": 887.685,
+   "out_end": 888.71
+  },
+  {
+   "part": "body",
+   "src_start": 883.46,
+   "src_end": 898.865,
+   "out_start": 888.71,
+   "out_end": 904.115
+  },
+  {
+   "part": "body",
+   "src_start": 899.615,
+   "src_end": 932.365,
+   "out_start": 904.115,
+   "out_end": 936.865
+  },
+  {
+   "part": "body",
+   "src_start": 933.275,
+   "src_end": 935.16,
+   "out_start": 936.865,
+   "out_end": 938.75
+  },
+  {
+   "part": "body",
+   "src_start": 935.76,
+   "src_end": 977.525,
+   "out_start": 938.75,
+   "out_end": 980.515
+  },
+  {
+   "part": "body",
+   "src_start": 980.535,
+   "src_end": 1017.685,
+   "out_start": 980.515,
+   "out_end": 1017.665
+  },
+  {
+   "part": "body",
+   "src_start": 1018.795,
+   "src_end": 1049.945,
+   "out_start": 1017.665,
+   "out_end": 1048.815
+  }
+ ]
+}

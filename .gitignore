@@ -3,3 +3,5 @@ work/**/*.mp3
 work/**/*.wav
 work/**/*.m4a
 work/**/*.log
+work/**/transcript.json
+work/**/transcript.txt

@@ -1,0 +1,1108 @@
+{
+ "source": "/root/.claude/uploads/defcf58c-48db-5be8-ae36-687a3ef96ef9/81981d62-Podcast_nr2.m4a",
+ "cuts": [
+  {
+   "start": 6.045,
+   "end": 29.775,
+   "reason": "dead-air",
+   "text": "24.2s pause"
+  },
+  {
+   "start": 43.105,
+   "end": 45.595,
+   "reason": "dead-air",
+   "text": "2.9s pause"
+  },
+  {
+   "start": 72.325,
+   "end": 73.495,
+   "reason": "dead-air",
+   "text": "1.6s pause"
+  },
+  {
+   "start": 76.065,
+   "end": 76.855,
+   "reason": "dead-air",
+   "text": "1.2s pause"
+  },
+  {
+   "start": 88.31,
+   "end": 89.01,
+   "reason": "stutter",
+   "text": "Imusa?"
+  },
+  {
+   "start": 91.265,
+   "end": 92.875,
+   "reason": "dead-air",
+   "text": "2.1s pause"
+  },
+  {
+   "start": 113.325,
+   "end": 114.215,
+   "reason": "dead-air",
+   "text": "1.3s pause"
+  },
+  {
+   "start": 132.045,
+   "end": 134.115,
+   "reason": "dead-air",
+   "text": "2.5s pause"
+  },
+  {
+   "start": 141.805,
+   "end": 142.615,
+   "reason": "dead-air",
+   "text": "1.3s pause"
+  },
+  {
+   "start": 144.805,
+   "end": 147.255,
+   "reason": "dead-air",
+   "text": "2.9s pause"
+  },
+  {
+   "start": 155.845,
+   "end": 156.655,
+   "reason": "dead-air",
+   "text": "1.3s pause"
+  },
+  {
+   "start": 170.385,
+   "end": 172.915,
+   "reason": "dead-air",
+   "text": "3.0s pause"
+  },
+  {
+   "start": 174.565,
+   "end": 179.175,
+   "reason": "dead-air",
+   "text": "5.1s pause"
+  },
+  {
+   "start": 189.265,
+   "end": 190.935,
+   "reason": "dead-air",
+   "text": "2.1s pause"
+  },
+  {
+   "start": 197.425,
+   "end": 198.235,
+   "reason": "dead-air",
+   "text": "1.3s pause"
+  },
+  {
+   "start": 198.68,
+   "end": 198.91,
+   "reason": "stutter",
+   "text": "jeszcze,"
+  },
+  {
+   "start": 250.805,
+   "end": 251.735,
+   "reason": "dead-air",
+   "text": "1.4s pause"
+  },
+  {
+   "start": 261.845,
+   "end": 262.675,
+   "reason": "dead-air",
+   "text": "1.3s pause"
+  },
+  {
+   "start": 267.205,
+   "end": 269.035,
+   "reason": "dead-air",
+   "text": "2.3s pause"
+  },
+  {
+   "start": 286.525,
+   "end": 287.535,
+   "reason": "dead-air",
+   "text": "1.5s pause"
+  },
+  {
+   "start": 298.845,
+   "end": 299.755,
+   "reason": "dead-air",
+   "text": "1.4s pause"
+  },
+  {
+   "start": 307.065,
+   "end": 308.635,
+   "reason": "dead-air",
+   "text": "2.0s pause"
+  },
+  {
+   "start": 317.305,
+   "end": 318.435,
+   "reason": "dead-air",
+   "text": "1.6s pause"
+  },
+  {
+   "start": 327.025,
+   "end": 328.235,
+   "reason": "dead-air",
+   "text": "1.7s pause"
+  },
+  {
+   "start": 341.365,
+   "end": 342.235,
+   "reason": "dead-air",
+   "text": "1.3s pause"
+  },
+  {
+   "start": 350.565,
+   "end": 351.495,
+   "reason": "dead-air",
+   "text": "1.4s pause"
+  },
+  {
+   "start": 352.46,
+   "end": 352.6,
+   "reason": "stutter",
+   "text": "już"
+  },
+  {
+   "start": 375.185,
+   "end": 376.575,
+   "reason": "dead-air",
+   "text": "1.8s pause"
+  },
+  {
+   "start": 396.405,
+   "end": 398.255,
+   "reason": "dead-air",
+   "text": "2.3s pause"
+  },
+  {
+   "start": 416.8,
+   "end": 416.92,
+   "reason": "filler",
+   "text": "-em"
+  },
+  {
+   "start": 417.51,
+   "end": 417.87,
+   "reason": "stutter",
+   "text": "Czekaj,"
+  },
+  {
+   "start": 418.25,
+   "end": 418.94,
+   "reason": "stutter",
+   "text": "czekaj, czekaj,"
+  },
+  {
+   "start": 431.205,
+   "end": 432.455,
+   "reason": "dead-air",
+   "text": "1.7s pause"
+  },
+  {
+   "start": 478.945,
+   "end": 480.455,
+   "reason": "dead-air",
+   "text": "2.0s pause"
+  },
+  {
+   "start": 493.825,
+   "end": 494.995,
+   "reason": "dead-air",
+   "text": "1.6s pause"
+  },
+  {
+   "start": 497.485,
+   "end": 498.275,
+   "reason": "dead-air",
+   "text": "1.2s pause"
+  },
+  {
+   "start": 504.645,
+   "end": 505.895,
+   "reason": "dead-air",
+   "text": "1.7s pause"
+  },
+  {
+   "start": 507.465,
+   "end": 508.495,
+   "reason": "dead-air",
+   "text": "1.5s pause"
+  },
+  {
+   "start": 510.585,
+   "end": 512.135,
+   "reason": "dead-air",
+   "text": "2.0s pause"
+  },
+  {
+   "start": 526.425,
+   "end": 527.935,
+   "reason": "dead-air",
+   "text": "2.0s pause"
+  },
+  {
+   "start": 529.905,
+   "end": 531.135,
+   "reason": "dead-air",
+   "text": "1.7s pause"
+  },
+  {
+   "start": 534.085,
+   "end": 537.075,
+   "reason": "dead-air",
+   "text": "3.4s pause"
+  },
+  {
+   "start": 551.925,
+   "end": 553.075,
+   "reason": "dead-air",
+   "text": "1.6s pause"
+  },
+  {
+   "start": 554.345,
+   "end": 556.915,
+   "reason": "dead-air",
+   "text": "3.0s pause"
+  },
+  {
+   "start": 576.245,
+   "end": 577.335,
+   "reason": "dead-air",
+   "text": "1.5s pause"
+  },
+  {
+   "start": 581.53,
+   "end": 581.91,
+   "reason": "stutter",
+   "text": "Dobra."
+  },
+  {
+   "start": 584.665,
+   "end": 586.675,
+   "reason": "dead-air",
+   "text": "2.5s pause"
+  },
+  {
+   "start": 600.725,
+   "end": 602.175,
+   "reason": "dead-air",
+   "text": "1.9s pause"
+  },
+  {
+   "start": 610.425,
+   "end": 612.595,
+   "reason": "dead-air",
+   "text": "2.6s pause"
+  },
+  {
+   "start": 644.065,
+   "end": 645.095,
+   "reason": "dead-air",
+   "text": "1.5s pause"
+  },
+  {
+   "start": 651.085,
+   "end": 652.055,
+   "reason": "dead-air",
+   "text": "1.4s pause"
+  },
+  {
+   "start": 704.425,
+   "end": 705.555,
+   "reason": "dead-air",
+   "text": "1.6s pause"
+  },
+  {
+   "start": 708.845,
+   "end": 709.915,
+   "reason": "dead-air",
+   "text": "1.5s pause"
+  },
+  {
+   "start": 744.445,
+   "end": 746.375,
+   "reason": "dead-air",
+   "text": "2.4s pause"
+  },
+  {
+   "start": 749.785,
+   "end": 750.655,
+   "reason": "dead-air",
+   "text": "1.3s pause"
+  },
+  {
+   "start": 760.585,
+   "end": 761.655,
+   "reason": "dead-air",
+   "text": "1.5s pause"
+  },
+  {
+   "start": 765.985,
+   "end": 766.735,
+   "reason": "dead-air",
+   "text": "1.2s pause"
+  },
+  {
+   "start": 771.645,
+   "end": 772.575,
+   "reason": "dead-air",
+   "text": "1.4s pause"
+  },
+  {
+   "start": 795.54,
+   "end": 795.72,
+   "reason": "stutter",
+   "text": "też"
+  },
+  {
+   "start": 817.145,
+   "end": 818.455,
+   "reason": "dead-air",
+   "text": "1.8s pause"
+  },
+  {
+   "start": 819.545,
+   "end": 820.775,
+   "reason": "dead-air",
+   "text": "1.7s pause"
+  },
+  {
+   "start": 823.525,
+   "end": 824.335,
+   "reason": "dead-air",
+   "text": "1.3s pause"
+  },
+  {
+   "start": 857.185,
+   "end": 861.455,
+   "reason": "dead-air",
+   "text": "4.7s pause"
+  },
+  {
+   "start": 862.885,
+   "end": 865.635,
+   "reason": "dead-air",
+   "text": "3.2s pause"
+  },
+  {
+   "start": 869.38,
+   "end": 869.76,
+   "reason": "stutter",
+   "text": "powiem"
+  },
+  {
+   "start": 870.385,
+   "end": 871.695,
+   "reason": "dead-air",
+   "text": "1.8s pause"
+  },
+  {
+   "start": 880.685,
+   "end": 882.155,
+   "reason": "dead-air",
+   "text": "1.9s pause"
+  },
+  {
+   "start": 883.18,
+   "end": 883.46,
+   "reason": "stutter",
+   "text": "takie,"
+  },
+  {
+   "start": 898.865,
+   "end": 899.615,
+   "reason": "dead-air",
+   "text": "1.2s pause"
+  },
+  {
+   "start": 928.265,
+   "end": 929.815,
+   "reason": "dead-air",
+   "text": "2.0s pause"
+  },
+  {
+   "start": 932.365,
+   "end": 933.275,
+   "reason": "dead-air",
+   "text": "1.4s pause"
+  },
+  {
+   "start": 935.16,
+   "end": 935.76,
+   "reason": "stutter",
+   "text": "takie..."
+  },
+  {
+   "start": 949.265,
+   "end": 953.855,
+   "reason": "dead-air",
+   "text": "5.0s pause"
+  },
+  {
+   "start": 977.525,
+   "end": 980.535,
+   "reason": "dead-air",
+   "text": "3.5s pause"
+  },
+  {
+   "start": 982.825,
+   "end": 983.855,
+   "reason": "dead-air",
+   "text": "1.5s pause"
+  },
+  {
+   "start": 988.67,
+   "end": 989.25,
+   "reason": "stutter",
+   "text": "Buzika?"
+  },
+  {
+   "start": 989.37,
+   "end": 989.77,
+   "reason": "stutter",
+   "text": "Buzika."
+  },
+  {
+   "start": 1009.13,
+   "end": 1010.62,
+   "reason": "stutter",
+   "text": "Ha ha ha"
+  },
+  {
+   "start": 1017.685,
+   "end": 1018.795,
+   "reason": "dead-air",
+   "text": "1.6s pause"
+  },
+  {
+   "start": 1032.125,
+   "end": 1033.615,
+   "reason": "dead-air",
+   "text": "1.9s pause"
+  },
+  {
+   "start": 1040.585,
+   "end": 1042.315,
+   "reason": "dead-air",
+   "text": "2.2s pause"
+  },
+  {
+   "start": 1049.945,
+   "end": 1053.175,
+   "reason": "dead-air",
+   "text": "3.7s pause"
+  }
+ ],
+ "review": [
+  {
+   "start": 33.99,
+   "end": 34.25,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 67.97,
+   "end": 68.16,
+   "reason": "soft-filler",
+   "text": "wiesz"
+  },
+  {
+   "start": 75.57,
+   "end": 75.87,
+   "reason": "soft-filler",
+   "text": "No."
+  },
+  {
+   "start": 85.61,
+   "end": 85.83,
+   "reason": "soft-filler",
+   "text": "No."
+  },
+  {
+   "start": 98.32,
+   "end": 99.18,
+   "reason": "soft-filler",
+   "text": "Znaczy"
+  },
+  {
+   "start": 99.18,
+   "end": 99.72,
+   "reason": "soft-filler",
+   "text": "jakby"
+  },
+  {
+   "start": 107.74,
+   "end": 108.06,
+   "reason": "soft-filler",
+   "text": "tak jakby"
+  },
+  {
+   "start": 107.86,
+   "end": 108.06,
+   "reason": "soft-filler",
+   "text": "jakby"
+  },
+  {
+   "start": 141.51,
+   "end": 141.61,
+   "reason": "soft-filler",
+   "text": "No."
+  },
+  {
+   "start": 143.14,
+   "end": 143.3,
+   "reason": "soft-filler",
+   "text": "jakby"
+  },
+  {
+   "start": 148.82,
+   "end": 149.39,
+   "reason": "soft-filler",
+   "text": "po prostu."
+  },
+  {
+   "start": 149.69,
+   "end": 149.94,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 151.3,
+   "end": 151.66,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 156.85,
+   "end": 157.16,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 179.37,
+   "end": 179.84,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 180.99,
+   "end": 181.07,
+   "reason": "soft-filler",
+   "text": "no,"
+  },
+  {
+   "start": 181.07,
+   "end": 181.46,
+   "reason": "soft-filler",
+   "text": "generalnie"
+  },
+  {
+   "start": 200.56,
+   "end": 201.49,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 203.39,
+   "end": 203.97,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 204.01,
+   "end": 204.14,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 218.41,
+   "end": 218.51,
+   "reason": "soft-filler",
+   "text": "No."
+  },
+  {
+   "start": 218.73,
+   "end": 219.02,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 219.35,
+   "end": 219.41,
+   "reason": "soft-filler",
+   "text": "no,"
+  },
+  {
+   "start": 220.45,
+   "end": 221.03,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 239.69,
+   "end": 239.87,
+   "reason": "soft-filler",
+   "text": "No?"
+  },
+  {
+   "start": 244.28,
+   "end": 244.39,
+   "reason": "soft-filler",
+   "text": "znaczy,"
+  },
+  {
+   "start": 250.43,
+   "end": 252.44,
+   "reason": "soft-filler",
+   "text": "No? To"
+  },
+  {
+   "start": 252.44,
+   "end": 252.92,
+   "reason": "soft-filler",
+   "text": "w sumie"
+  },
+  {
+   "start": 259.63,
+   "end": 259.81,
+   "reason": "soft-filler",
+   "text": "wiesz,"
+  },
+  {
+   "start": 330.73,
+   "end": 331.1,
+   "reason": "soft-filler",
+   "text": "No to"
+  },
+  {
+   "start": 339.36,
+   "end": 339.58,
+   "reason": "soft-filler",
+   "text": "Znaczy"
+  },
+  {
+   "start": 354.33,
+   "end": 354.8,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 359.04,
+   "end": 359.34,
+   "reason": "soft-filler",
+   "text": "no to"
+  },
+  {
+   "start": 381.93,
+   "end": 382.52,
+   "reason": "soft-filler",
+   "text": "No..."
+  },
+  {
+   "start": 386.95,
+   "end": 387.08,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 387.59,
+   "end": 387.82,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 389.73,
+   "end": 389.84,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 391.22,
+   "end": 391.53,
+   "reason": "soft-filler",
+   "text": "no,"
+  },
+  {
+   "start": 393.05,
+   "end": 393.32,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 394.31,
+   "end": 394.48,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 395.77,
+   "end": 396.01,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 396.09,
+   "end": 396.21,
+   "reason": "soft-filler",
+   "text": "no."
+  },
+  {
+   "start": 402.89,
+   "end": 403.13,
+   "reason": "soft-filler",
+   "text": "wiesz,"
+  },
+  {
+   "start": 434.42,
+   "end": 435.01,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 437.79,
+   "end": 437.82,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 439.88,
+   "end": 440.36,
+   "reason": "soft-filler",
+   "text": "Znaczy"
+  },
+  {
+   "start": 453.16,
+   "end": 453.27,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 453.37,
+   "end": 453.43,
+   "reason": "soft-filler",
+   "text": "no,"
+  },
+  {
+   "start": 453.45,
+   "end": 453.65,
+   "reason": "soft-filler",
+   "text": "no,"
+  },
+  {
+   "start": 466.38,
+   "end": 466.72,
+   "reason": "soft-filler",
+   "text": "po prostu"
+  },
+  {
+   "start": 467.39,
+   "end": 467.6,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 473.02,
+   "end": 473.62,
+   "reason": "soft-filler",
+   "text": "po prostu"
+  },
+  {
+   "start": 476.91,
+   "end": 477.14,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 477.89,
+   "end": 477.94,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 486.8,
+   "end": 486.95,
+   "reason": "soft-filler",
+   "text": "wiesz,"
+  },
+  {
+   "start": 487.12,
+   "end": 488.24,
+   "reason": "soft-filler",
+   "text": "po prostu..."
+  },
+  {
+   "start": 489.79,
+   "end": 490.01,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 504.28,
+   "end": 504.45,
+   "reason": "soft-filler",
+   "text": "no."
+  },
+  {
+   "start": 515.3,
+   "end": 515.81,
+   "reason": "soft-filler",
+   "text": "po prostu,"
+  },
+  {
+   "start": 558.31,
+   "end": 558.34,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 558.78,
+   "end": 558.94,
+   "reason": "soft-filler",
+   "text": "jakby..."
+  },
+  {
+   "start": 560.03,
+   "end": 560.1,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 566.75,
+   "end": 566.88,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 570.69,
+   "end": 571.06,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 572.67,
+   "end": 572.8,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 574.19,
+   "end": 574.42,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 593.21,
+   "end": 593.58,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 593.91,
+   "end": 593.98,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 595.7,
+   "end": 595.94,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 602.37,
+   "end": 602.6,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 609.07,
+   "end": 609.44,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 617.93,
+   "end": 618.04,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 643.21,
+   "end": 643.36,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 645.29,
+   "end": 646.3,
+   "reason": "soft-filler",
+   "text": "No to"
+  },
+  {
+   "start": 741.89,
+   "end": 742.03,
+   "reason": "soft-filler",
+   "text": "no."
+  },
+  {
+   "start": 750.85,
+   "end": 750.91,
+   "reason": "soft-filler",
+   "text": "no."
+  },
+  {
+   "start": 752.93,
+   "end": 753.04,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 757.18,
+   "end": 757.47,
+   "reason": "soft-filler",
+   "text": "wiesz,"
+  },
+  {
+   "start": 783.13,
+   "end": 783.44,
+   "reason": "soft-filler",
+   "text": "po prostu"
+  },
+  {
+   "start": 796.35,
+   "end": 796.76,
+   "reason": "soft-filler",
+   "text": "No to"
+  },
+  {
+   "start": 798.15,
+   "end": 798.52,
+   "reason": "soft-filler",
+   "text": "No"
+  },
+  {
+   "start": 798.97,
+   "end": 799.22,
+   "reason": "soft-filler",
+   "text": "no to"
+  },
+  {
+   "start": 818.65,
+   "end": 819.35,
+   "reason": "soft-filler",
+   "text": "No."
+  },
+  {
+   "start": 820.97,
+   "end": 821.67,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 885.55,
+   "end": 885.81,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 904.97,
+   "end": 905.46,
+   "reason": "soft-filler",
+   "text": "No to"
+  },
+  {
+   "start": 905.46,
+   "end": 906.0,
+   "reason": "soft-filler",
+   "text": "generalnie"
+  },
+  {
+   "start": 912.54,
+   "end": 912.72,
+   "reason": "soft-filler",
+   "text": "jakby"
+  },
+  {
+   "start": 915.02,
+   "end": 915.42,
+   "reason": "soft-filler",
+   "text": "jakby"
+  },
+  {
+   "start": 917.43,
+   "end": 917.64,
+   "reason": "soft-filler",
+   "text": "no"
+  },
+  {
+   "start": 922.46,
+   "end": 922.66,
+   "reason": "soft-filler",
+   "text": "jakby"
+  },
+  {
+   "start": 930.64,
+   "end": 931.24,
+   "reason": "soft-filler",
+   "text": "No to"
+  },
+  {
+   "start": 948.68,
+   "end": 949.07,
+   "reason": "soft-filler",
+   "text": "znaczy?"
+  },
+  {
+   "start": 954.05,
+   "end": 954.83,
+   "reason": "soft-filler",
+   "text": "Wiesz,"
+  },
+  {
+   "start": 964.84,
+   "end": 965.16,
+   "reason": "soft-filler",
+   "text": "jakby"
+  },
+  {
+   "start": 969.28,
+   "end": 969.8,
+   "reason": "soft-filler",
+   "text": "No, to"
+  },
+  {
+   "start": 997.82,
+   "end": 998.15,
+   "reason": "soft-filler",
+   "text": "no."
+  },
+  {
+   "start": 1015.71,
+   "end": 1016.33,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 1025.07,
+   "end": 1025.29,
+   "reason": "soft-filler",
+   "text": "No,"
+  },
+  {
+   "start": 1033.81,
+   "end": 1034.43,
+   "reason": "soft-filler",
+   "text": "No,"
+  }
+ ],
+ "stats": {
+  "fillers": 1,
+  "stutters": 16,
+  "pauses": 68,
+  "soft_flagged": 100,
+  "soft_cut": 0,
+  "seconds_saved": 134.5,
+  "percent_saved": 12.6
+ }
+}

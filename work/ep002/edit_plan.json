@@ -1,0 +1,52 @@
+{
+ "source": "src.wav",
+ "output": "Podcast_nr2-final.mp3",
+ "cold_open": [
+  {
+   "start": 709.9,
+   "end": 736.3,
+   "note": "Kozioł 8-w-1 gel label read: 'tylko za pisemną zgodą psa'"
+  }
+ ],
+ "sting": true,
+ "sections": [
+  {
+   "start": 6.0,
+   "end": 1050.3,
+   "note": "drops Auphonic watermark (0-5.9) and post-show chatter"
+  }
+ ],
+ "cuts_file": "cuts_safe.json",
+ "cuts": [],
+ "clips": [
+  {
+   "name": "01-zel-8-w-jednym-zgoda-psa",
+   "start": 709.9,
+   "end": 742.2
+  },
+  {
+   "name": "02-dlugie-spodnie-czy-dlugi-rekaw",
+   "start": 220.3,
+   "end": 276.6
+  },
+  {
+   "name": "03-do-czapki-trzeba-dorosnac",
+   "start": 277.3,
+   "end": 347.6
+  },
+  {
+   "name": "04-nie-jest-ci-zimno-w-glowe",
+   "start": 361.3,
+   "end": 396.4
+  },
+  {
+   "name": "05-pszczola-w-kasku",
+   "start": 468.1,
+   "end": 504.6
+  }
+ ],
+ "enhance": true,
+ "enhance_chain": "highpass=f=90,afftdn=nf=-25:nr=8:nt=w,equalizer=f=200:t=q:w=1.2:g=-1.5,equalizer=f=340:t=q:w=1.2:g=-3,equalizer=f=480:t=q:w=1.0:g=-5,equalizer=f=720:t=q:w=1.4:g=-2,equalizer=f=3000:t=q:w=1.0:g=3,treble=g=4:f=4500:t=q:w=0.7,lowpass=f=12000,deesser=i=0.3:m=0.5:f=0.5:s=o,dynaudnorm=f=200:g=5:p=0.95:m=5:s=0,acompressor=threshold=-20dB:ratio=2:attack=5:release=200:makeup=1",
+ "target_lufs": -16,
+ "bitrate": "192k"
+}
