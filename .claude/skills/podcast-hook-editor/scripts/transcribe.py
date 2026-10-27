@@ -60,8 +60,12 @@ def transcribe_local(path, language, model_name, prompt):
     with tempfile.TemporaryDirectory() as td:
         wav = os.path.join(td, "a.wav")
         to_wav16k(path, wav)
+        # Pass samples, not a path: faster-whisper's own decoder (PyAV) breaks across av versions.
+        import wave, numpy as np
+        with wave.open(wav) as w:
+            audio = np.frombuffer(w.readframes(w.getnframes()), np.int16).astype(np.float32) / 32768
         seg_iter, info = model.transcribe(
-            wav, language=language, word_timestamps=True, initial_prompt=prompt,
+            audio, language=language, word_timestamps=True, initial_prompt=prompt,
             vad_filter=False,            # VAD would swallow fillers and pauses we want to see
             condition_on_previous_text=False, beam_size=5)
         segments = []
